@@ -1,6 +1,3 @@
-
-dsf2flac - http://code.google.com/p/dsf2flac/
-
 INTRODUCTION
 
 A file conversion tool for translating dsf or dff dsd audio files into
